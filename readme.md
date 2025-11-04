@@ -1,10 +1,6 @@
-# 99Tech Code Challenge #1 #
+# Problem 5 #
+Login
+<img width="728" height="524" alt="image" src="https://github.com/user-attachments/assets/b37b917b-0c0a-41a0-839c-90a3a8180e26" />
+User Management
+<img width="1372" height="594" alt="image" src="https://github.com/user-attachments/assets/d1b576fc-c9a9-4aa8-92a0-92988e23e9cf" />
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
-
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
-
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.

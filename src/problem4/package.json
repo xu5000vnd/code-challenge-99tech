@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "ts-node test.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
